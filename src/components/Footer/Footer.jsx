@@ -25,7 +25,7 @@ const Footer = () => {
             <br />
             <div className="flex items-center gap-3">
               <FaLocationArrow />
-              <p>MAHARASHTRA</p>
+              <p>Maharashtra</p>
             </div>
             <div className="flex items-center gap-3 mt-3">
               <FaMobileAlt />

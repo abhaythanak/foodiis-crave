@@ -43,8 +43,7 @@ const Services = () => {
             </p>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-14 md:gap-5 place-items-center">
-            {ServicesData.map((service) => 
-            return (
+            {ServicesData.map((service) => (
               <div
                 data-aos="zoom-in"
                 data-aos-duration="300"
@@ -78,8 +77,7 @@ const Services = () => {
                   </p>
                 </div>
               </div>
-            );
-          )}
+            ))}
           </div>
         </div>
       </div>
