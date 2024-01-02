@@ -22,13 +22,13 @@ const Menu = [
 const Navbar = () => {
   return (
     <>
-      <div className="shadow-md bg-white dark:bg-gray-900 dark:text-white duration-200">
+      <div className="shadow-md bg-white dark:bg-gray-900 dark:text-white duration-200 rounded">
         <div className="container py-3 sm:py-0">
           <div className="flex justify-between items-center">
-            <div>
+            <div className="font-serif bg-clip-text text-transparent bg-gradient-to-b from-primary to-secondary">
               <a href="#" className="font-bold text-2xl sm:text-3xl flex gap-2">
                 <img src={Logo} alt="Logo" className="w-10" />
-                Foodie
+                Hungry Graduate's
               </a>
             </div>
             <div className="flex justify-between items-center gap-4">

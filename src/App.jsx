@@ -28,8 +28,8 @@ const App = () => {
       <Services />
       <Banner />
       {/* <CoverBanner /> */}
-      <AppStore />
       <Testimonial />
+      <AppStore />
       <Footer />
     </div>
   );

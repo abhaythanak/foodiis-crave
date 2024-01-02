@@ -6,7 +6,7 @@ import Gif from "../../assets/mobile_bike.gif";
 const AppStore = () => {
   return (
     <>
-      <div className="bg-gray-100 dark:bg-gray-800 py-14">
+      <div className="bg-gray-100 dark:bg-gray-700 py-14">
         <div className="container">
           <div className="grid sm:grid-cols-2 grid-cols-1 items-center gap-4">
             <div
@@ -15,7 +15,7 @@ const AppStore = () => {
               className="space-y-6 max-w-xl mx-auto"
             >
               <h1 className="text-2xl text-center sm:text-left sm:text-4xl font-semibold text-gray-700 dark:text-gray-400">
-                Foodly is available for Android and IOS
+              Hungry Graduate's is available for Android and IOS
               </h1>
               <div className="flex flex-wrap justify-center sm:justify-start items-center">
                 <a href="#">
