@@ -1,4 +1,14 @@
 # support Devices
+
+
+
+https://github.com/abhaythanak/foodiis-crave/assets/107474114/7640be24-528d-4e06-9685-1fed2d5fae1d
+
+
+https://github.com/abhaythanak/foodiis-crave/assets/107474114/351d6f75-7177-41ce-b0a7-784b2397b152
+
+
+
 ![Screenshot 2024-01-02 152044](https://github.com/abhaythanak/foodiis-crave/assets/107474114/b64471d5-0ff7-4d0a-a051-a2eb750cb087)
 
 
